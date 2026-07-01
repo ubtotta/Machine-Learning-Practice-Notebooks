@@ -46,7 +46,7 @@ Machine-Learning-Practice-Notebooks/
 This repository is intended to:
 
 - Strengthen my Machine Learning fundamentals.
-- Practice coding implementations regularly.
+- Practice coding implementations regularly with examples.
 - Maintain consistency in learning.
 - Showcase my progress and practical knowledge.
 
