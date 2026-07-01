@@ -30,10 +30,10 @@ Machine-Learning-Practice-Notebooks/
 ├── README.md
 ├── Data Files
 ├── Jupyter Notebooks
-│   ├── Feature Scaling
-│   ├── Train Test Split
-│   ├── Encoding Techniques
 │   ├── Linear Regression
+│   ├── Train Test Split
+│   ├── Feature Scaling
+│   ├── Encoding Techniques
 │   ├── ...
 │
 └── Additional Practice Files
