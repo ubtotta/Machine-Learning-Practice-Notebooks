@@ -34,7 +34,7 @@ Machine-Learning-Practice-Notebooks/
 │   ├── Train Test Split
 │   ├── Feature Scaling
 │   ├── Encoding Techniques
-│   ├── ...
+│   ├── Logistic Regression
 │
 └── Additional Practice Files
 ```
