@@ -35,6 +35,8 @@ Machine-Learning-Practice-Notebooks/
 │   ├── Feature Scaling
 │   ├── Encoding Techniques
 │   ├── Applying Logistic Regression
+│   ├── Appyling Decision Tree
+│ 
 │
 └── Additional Practice Files
 ```
