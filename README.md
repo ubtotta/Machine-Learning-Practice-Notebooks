@@ -36,6 +36,7 @@ Machine-Learning-Practice-Notebooks/
 │   ├── Encoding Techniques
 │   ├── Applying Logistic Regression
 │   ├── Appyling Decision Tree
+│   ├── Appyling RandomForest
 │ 
 │
 └── Additional Practice Files
