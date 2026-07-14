@@ -34,7 +34,7 @@ Machine-Learning-Practice-Notebooks/
 │   ├── Train Test Split
 │   ├── Feature Scaling
 │   ├── Encoding Techniques
-│   ├── Applying Logistic Regression
+│   ├── Implementing Logistic Regression
 │   ├── Appyling Decision Tree
 │   ├── Appyling RandomForest
 │ 
